@@ -7,9 +7,6 @@
     <br>
     The main idea behind this exercise is to get familiar with <b> Requests</b>, <b> Comprehensive usage of Strings</b> and <b>reading & writing into file's</b>.
     <br>
-    <br>
-    <a href="https://github.com/LielAmar/Introduction-To-CS-solutions"><strong>« Home Page</strong></a>
-    <br>
   </p>
 </div>
 
