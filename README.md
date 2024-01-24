@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
-  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - WordSearch</b></h1>
+  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - WordSearch Exercise</b></h1>
 
   <p align="center">
     <b>WordSearch</b> is a exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
