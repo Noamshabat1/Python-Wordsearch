@@ -1,8 +1,9 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>WordSearch</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - WordSearch</b></h1>
 
   <p align="center">
-    <b>Word Search</b> is a exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
+    <b>WordSearch</b> is a exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
     <br>
     The main idea behind this exercise is to get familiar with <b>HTTP Requests</b>, <b> Comprehensive usage of Strings</b> and <b>reading & writing into file's</b>.
     <br>
